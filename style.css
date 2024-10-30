@@ -1,0 +1,15 @@
+html{
+    font-family: monospace;
+}
+
+body{
+    width: 50%;
+    max-width: 800px;
+    min-width: 480px;
+    min-width: 0 auto;
+}
+
+.lastresult {
+    color: white;
+    padding: 3px;
+}
